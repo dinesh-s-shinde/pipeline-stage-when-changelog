@@ -6,7 +6,7 @@ pipeline {
                 changelog ".*some text*."
             }
             steps {
-                echo "Hello World Change log"
+                echo "Hello World changelog"
             }
         }
     }
